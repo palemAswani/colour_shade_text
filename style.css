@@ -1,0 +1,60 @@
+#main{
+    width: 100%;
+    height: 800px;
+    display:flex;
+    justify-content: space-between;
+    background-image: url('nature.jpg');
+}
+h2{
+    width:400px;
+    height:60px;
+    font-size: 35px;
+    border: none;
+}
+#textarea{
+    width:400px;
+    height:600px;
+    border: 3px solid black;
+    border-radius: 7px;
+    }
+   
+    #colourarea,#bgarea,#stylearea{
+        width:500px;
+          height:200px;
+        border: 3px solid black;
+        border-radius: 7px;
+        transition:0.25s;
+        }
+.class1{
+    width:60px;
+    height: 40px;
+    border-radius: 100%;
+    border: none;
+}   
+#c1,#c11{
+    background-color: red;
+}
+#c2,#c22{
+    background-color: blue;
+}#c3,#c33{
+    background-color: green;
+}#c4,#c44{
+    background-color:black;
+}#c5,#c55{
+    background-color:orange;
+}#c6,#c66{
+    background-color: skyblue;
+}#c7,#c77{
+    background-color: brown;
+}#c8,#c88{
+    background-color: pink;
+}#c9,#c99{
+    background-color: yellow;
+}#c10,#c100{
+    background-color: violet;
+}
+.class2{
+    width: 120px;
+    height: 50px;
+    border-radius: 20px;
+}
